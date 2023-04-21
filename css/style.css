@@ -1,0 +1,20 @@
+canvas {
+    display: block;
+    margin: 0;
+}
+
+.replay {
+    margin-left: 93.5px;
+    margin-top: 200px;
+    
+    /* margin: 0 auto; */
+    position: absolute;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: rgb(23, 130, 9);
+    display: none;
+}
+
+.hidden {
+    display: block;
+}
